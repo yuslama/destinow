@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707480336218",
+    "project_id": "destinow-id-23620",
+    "storage_bucket": "destinow-id-23620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707480336218:android:c23682ae810516b92be563",
+        "android_client_info": {
+          "package_name": "com.example.destinow1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqgmEoU3Ind5wBKVGqwEMWVWBB_KnQ6w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
